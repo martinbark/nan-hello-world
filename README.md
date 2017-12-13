@@ -5,13 +5,13 @@
 ## Installation
 
 ```
-yarn add martinbark/nan-hello-world
+yarn add nan-hello-world
 ```
 
 or
 
 ```
-npm install martinbark/nan-hello-world
+npm install nan-hello-world
 ```
 
 ## Usage
