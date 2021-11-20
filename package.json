@@ -16,8 +16,8 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "bindings": "^1.3.0",
-    "nan": "^2.8.0"
+    "bindings": "^1.5.0",
+    "nan": "^2.15.0"
   },
   "gypfile": true
 }
