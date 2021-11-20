@@ -1,6 +1,6 @@
 {
   "name": "nan-hello-world",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Hello World example using NAN",
   "author": "Martin Bark <martin@barkynet.com>",
   "repository": "https://github.com/martinbark/nan-hello-world.git",
